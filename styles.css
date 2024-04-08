@@ -1,0 +1,39 @@
+<styles>
+
+h1 {
+    font-size: 75px;
+    color: red;
+    text: white;
+}
+
+h3 {
+    border: 2px solid black;
+    font-sixe: 45px;
+    padding: 15px;
+    margin: auto;
+    max-width: 400px;
+}
+
+i {
+   font-size:25px;
+}
+
+header {
+        background: linear-gradient(110deg, purple 40%, lightblue 40%);
+}
+
+section {
+        background: turquoise;
+}
+
+footer {
+        background: grey;
+        color; white;
+}
+
+div {
+     text-align: center;
+     padding: 40px;
+}
+
+</styles>
