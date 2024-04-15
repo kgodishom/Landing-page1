@@ -35,5 +35,11 @@ div {
      text-align: center;
      padding: 40px;
 }
+img {
+    border-radius: 5px;
+}
 
+ul {
+    text-align: left;
+}
 </styles>
